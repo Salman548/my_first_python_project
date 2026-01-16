@@ -1,5 +1,11 @@
------My First Python Project-----
+# Python Calculator with History
 
-It's a calculator with history system. 
-It performs only four functions ('+' '-' 'x' '/') which stores in a text file as history.
-It can do calculations on numbers within 2 figures.
+## Project Description
+This is a simple Python-based calculator that performs basic arithmetic operations and keeps a history of calculations.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Calculation history tracking
